@@ -1,5 +1,5 @@
 
-# 🚦 Traffic Light Controller – Verilog HDL Project
+# 🚦 Traffic Light Controller – System Verilog Project
 
 This project implements a **Traffic Light Controller** using **System Verilog** based on a finite state machine (FSM) model. It simulates a real-world 4-phase traffic light system with timed transitions.
 
